@@ -12,4 +12,7 @@ class Shoe
     @brand
   end
   
+  def cobble
+    puts 
+  
 end 
